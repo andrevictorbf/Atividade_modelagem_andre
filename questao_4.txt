@@ -5,3 +5,5 @@ As divergências são:
 3 - na entidade "unidade", utilizaria a tipagem "tinyint - un" para os atributos "numeroDeQuartos", "numeroDeSuites", "vagasDeGaragem", "varandas" e "salas", uma vez que "smallint" seria uma tipagem de número muito grande para esses atributos, bem diminuiria a otimização dos mesmos;
 4 - na entidade "FeedbackEmpreendimento", utilizaria a tipagem "Date" e a tipagem "time" para fins de organização do registro desse dado;
 5 - na entidade "Dono", substituiria o atributo "NumeroDoDocumento" por CPF/CNPJ para fins de organização.
+
+Obs: os pontos estão estarão descritos no print, em anexo a essa questão, da modelagem da ImmoLink feita por Ianko. 
