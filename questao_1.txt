@@ -1,0 +1,8 @@
+1- Cite qual é a utilidade de cada um dos pilares do pensamento computacional e como podem ser usados em problemas reais não relacionados a computadores.
+Os pilares do pensamento computacional são: 
+a - Abstração: entende-se a abstração como uma forma de se verificar um problema de maneira integral, onde serão verificadas todas as possibilidades para a sua resolução; 
+b - Decomposição: nesse pilar do pensamento computacional um problema é dividido em partes (problemas) menores, a fim de facilitar a resolução de problemas;
+c - Reconhecimento de padrões: nessa etapa são verificadas as semelhanças e repetições de elementos existentes em um problema, a fim de facilitar possíveis soluções e evitar redundância;
+d - Algoritmo: um algoritmo é maneira "automatizada" de se solucionar um problema, que utilzará dos demais conceitos do pensamento computacional para ser elaborado.
+
+O pensamento computacional também pode ser utilizado na resolução de problemas não relacionados a computadores por meio do conceito da "computação desplugada", onde problemas do cotidiano podem ser abstraídos, decompostos, terem seus padrões reconhecidos e terem a sua resolução automatizada. 
