@@ -1,0 +1,7 @@
+4- Sobre a modelagem feita por Ianko para a ImmoLink, quais são as divergências em relação ao seu pensamento, seja em tipagem, nomenclatura, tabelas, etc.
+As divergências são:
+1 - restringiria as tabelas contato, de funcionários, moradores, proprietários e administradores apenas para um único tipo, a exemplo de um único número de celular, com a finalidade de eliminar as tabelas "tipo_contato";
+2 - padronizaria a tipagem do atributo "cpf", uma vez que esse foi atribuido "char" e "bigint" em entidades diferetes;
+3 - na entidade "unidade", utilizaria a tipagem "tinyint - un" para os atributos "numeroDeQuartos", "numeroDeSuites", "vagasDeGaragem", "varandas" e "salas", uma vez que "smallint" seria uma tipagem de número muito grande para esses atributos, bem diminuiria a otimização dos mesmos;
+4 - na entidade "FeedbackEmpreendimento", utilizaria a tipagem "Date" e a tipagem "time" para fins de organização do registro desse dado;
+5 - na entidade "Dono", substituiria o atributo "NumeroDoDocumento" por CPF/CNPJ para fins de organização.
