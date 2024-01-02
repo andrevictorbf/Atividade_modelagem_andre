@@ -1,0 +1,2 @@
+2- Com suas palavras, explique a importância de seguir as regras normais no desenvolvimento de uma modelagem de dados.
+Seguir a lógica das regras normais na modelagem de dados é importante para a organização, coesão e fidelidade dos dados armazenados, uma vez que garantem que os esses dados seguirão a lógica e o fluxo da realidade (sendo essa proposta no minimundo). As normais também são capazes de reduzir as redundâncias e inconsistências entre os dados armazenados.
